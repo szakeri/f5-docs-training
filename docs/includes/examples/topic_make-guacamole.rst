@@ -10,9 +10,12 @@ Method
   
         Remember that much of this is done to taste because of the variability in the fresh ingredients. Start with this recipe and adjust to your taste.
 
-#. Cover with plastic and chill to store: Place plastic wrap on the surface of the guacamole and cover it to prevent air reaching it. (The oxygen in the air causes oxidation which will turn the guacamole brown.) Refrigerate until ready to serve.
+#. Cover with plastic and chill to store:
 
-Chilling tomatoes hurts their flavor, so if you want to add chopped tomato to your guacamole, add it just before serving.
+    * Place plastic wrap on the surface of the guacamole and cover it to prevent air reaching it. (The oxygen in the air causes oxidation which will turn the guacamole brown.) 
+    * Refrigerate until ready to serve.
+
+.. note:: Chilling tomatoes hurts their flavor; if you want to add chopped tomato to your guacamole, add it just before serving.
 
 Variations
 ----------
