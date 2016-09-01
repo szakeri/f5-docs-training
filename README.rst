@@ -120,6 +120,8 @@ View Your Documentation
 .. toctree::
     :hidden:
 
+    self
+    docs/sphinx_rst_cheat-sheet
 
 
 
