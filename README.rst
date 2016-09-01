@@ -73,7 +73,7 @@ Create a Document Map
 
 Content chunks are combined into documents via maps. In `sphinx <http://www.sphinx-doc.org/en/stable/>`_, the ``.. include::`` directive provides the means for importing content from one file into another.
 
-1. Make a new file that follows the file-naming convention and architecture described in the `training slides <https://github.com/jputrino/f5-docs-training/blob/master/f5-opensource-docs-training.pptx>`_.
+1. Make a new file that follows the file-naming convention and architecture described in the `training slides <https://f5-my.sharepoint.com/personal/j_putrino_f5_com/_layouts/15/guestaccess.aspx?guestaccesstoken=7ZEBHlnODDNSA6mJLYoN3Uqxjshez3gP96vlO%2bchxmU%3d&docid=08c88415fb4cd452ea59275e63f7c3580&rev=1>`_.
 
 .. topic:: Filename Example
 
