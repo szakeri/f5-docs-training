@@ -1,7 +1,9 @@
 Welcome to F5's Open Source Documentation Training!
 ===================================================
 
-This training demo is intended to teach F5 Networks' software engineers to create documentation for open source projects. For these projects, documentation is created as part of the agile development process. All software engineers are expected to create documentation for the tools/features they are developing. All docs content is curated by an editor, who ensures compliance with established style guidelines; formats content for reuse; and prepares content for publication in conjunction with product releases.
+This training demo is intended to teach F5 Networks' software engineers to create documentation for open source projects. For these projects, documentation is created as part of the agile development process. All software engineers are expected to create documentation for the tools/features they are developing.
+
+All docs content is curated by an editor, who ensures compliance with established style guidelines; formats content for reuse; and prepares content for publication in conjunction with product releases.
 
 .. note::
 
@@ -24,7 +26,7 @@ Check out a new branch to which you will commit your work.
 
 .. code-block:: bash
 
-    git checkout -b feature.docs_training_<yourname>
+    git checkout -b feature.<yourname>
 
 
 Create New Content
@@ -32,16 +34,16 @@ Create New Content
 
 #. Make a new file that follows the file-naming conventions shown below. **Be sure to put it in the** ``docs/includes`` **directory**.
 
-    * concept: \concept_descriptive-file-name.rst
-    * topic: \topic_descriptive-file-name.rst
-    * reference: /ref_descriptive-file-name.rst
+    * concept: concept_descriptive-file-name.rst
+    * topic: topic_descriptive-file-name.rst
+    * reference: ref_descriptive-file-name.rst
 
 #. Write a brief chunk of content that is appropriate for the doc type you're creating.
 
     .. tip::
 
         * Can be about any subject you like; keep it clean and professional.
-        * See `/examples <https://github.com/jputrino/f5-docs-training/blob/master/examples>`_ for text you can copy and paste.
+        * See :ref:`examples` for text you can copy and paste.
 
 #. **Optional**: Create additional content chunks to be combined into a map in a :ref:`later step <Create a Document Map>`.
 
@@ -112,14 +114,12 @@ View Your Documentation
 
     The training project repo is set up to build automatically on Read the Docs whenever content is pushed to any branch.
 
-    Go to \http://f5-docs-training.readthedocs.io/en/<your-feature-branch> to view your documentation!
+    Go to ``http://f5-docs-training.readthedocs.io/en/<your-feature-branch>`` to view your documentation!
 
-
-Site Contents:
---------------
 
 .. toctree::
-    :glob:
+    :hidden:
 
-    docs/includes/*
-    docs/includes/examples/*
+
+
+

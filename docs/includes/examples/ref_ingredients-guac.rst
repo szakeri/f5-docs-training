@@ -1,5 +1,10 @@
+:orphan: True
+
+Ref Example: Guacamole
+----------------------
+
 Ingredients
------------
+```````````
 
 * 2 ripe avocados
 * 1/2 teaspoon Kosher salt
@@ -10,5 +15,3 @@ Ingredients
 * A dash of freshly grated black pepper
 * 1/2 ripe tomato, seeds and pulp removed, chopped
 
-
-Read more: http://www.simplyrecipes.com/recipes/perfect_guacamole/#ixzz4IrOCKfyj

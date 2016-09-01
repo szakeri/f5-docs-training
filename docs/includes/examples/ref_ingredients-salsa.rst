@@ -1,5 +1,8 @@
+Ref Example: Salsa
+------------------
+
 Ingredients
------------
+```````````
 
 * 2-3 medium sized fresh tomatoes (from 1 lb to 1 1/2 lb), stems removed
 * 1/2 red onion
@@ -10,7 +13,4 @@ Ingredients
 * Pinch of dried oregano (crumble in your fingers before adding), more to taste
 * Pinch of ground cumin, more to taste
 
- 
 
-
-Read more: http://www.simplyrecipes.com/recipes/fresh_tomato_salsa/#ixzz4IrONremd

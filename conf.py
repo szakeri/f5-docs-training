@@ -140,7 +140,7 @@ html_theme = 'sphinx_rtd_theme'
 # Theme options
 # (Optional) Logo. Should be small enough to fit the navbar (ideally 24x24).
 # Path should be relative to the ``_static`` files directory.
-html_logo = "f5_logo.jpg"
+html_logo = "docs/_static/f5_logo.jpg"
 
 # Theme options are theme-specific and customize the look and feel of a
 # theme further.

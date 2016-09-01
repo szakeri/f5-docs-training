@@ -1,5 +1,8 @@
-Method
-------
+Topic Example: Salsa
+--------------------
+
+Steps
+`````
 
 #. Start by roughly chopping the tomatoes, chiles, and onions. Be very careful while handling the chile peppers. If you can, avoid touching the cut peppers with your hands. (I often use disposable gloves or hold the peppers with a plastic sandwich bag.) Wash your hands thoroughly with soap and hot water after handling and avoid touching your eyes for several hours. Set aside some of the seeds from the peppers. If the salsa isn't hot enough, you can add a few for more heat.
 #. Place all of the ingredients in a food processor. Pulse only a few times, just enough to finely dice the ingredients, not enough to purée. If you don't have a food processor, you can finely dice by hand.

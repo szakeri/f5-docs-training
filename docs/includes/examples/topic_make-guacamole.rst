@@ -1,5 +1,8 @@
-Method
-------
+Topic Example: Guacamole
+------------------------
+
+Steps
+`````
 
 #. Cut avocado, remove flesh: Cut the avocados in half. Remove seed. Score the inside of the avocado with a blunt knife and scoop out the flesh with a spoon. (See How to Cut and Peel an Avocado.) Place in a bowl.
 #. Mash with a fork: Using a fork, roughly mash the avocado. (Don't overdo it! The guacamole should be a little chunky.)
@@ -18,7 +21,7 @@ Method
 .. note:: Chilling tomatoes hurts their flavor; if you want to add chopped tomato to your guacamole, add it just before serving.
 
 Variations
-----------
+``````````
 
 * For a very quick guacamole just take a 1/4 cup of salsa and mix it in with your mashed avocados.
 * The simplest version of guacamole is just mashed avocados with salt. Don't let the lack of availability of other ingredients stop you from making guacamole.
