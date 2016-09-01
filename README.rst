@@ -3,26 +3,12 @@ Welcome to F5's Open Source Documentation Training!
 
 .. toctree::
     :hidden:
-    :maxdepth: 2
-    :glob:
 
-    docs/*
-    docs/includes/*
-    .. docs/includes/examples/*
-
-
-Overview
-========
-
-This training demo is intended to teach F5 Networks' software engineers to create documentation for open source projects. For these projects, documentation is created in parallel with code development. All software engineers are expected to create documentation for the tools/features they are developing. This content is curated by an editor, who ensures compliance with established style guidelines; formats content for reuse; and prepares content for publication in conjunction with product releases.
-
-
-Training Exercise
-=================
+This training demo is intended to teach F5 Networks' software engineers to create documentation for open source projects. For these projects, documentation is created as part of the agile development process. All software engineers are expected to create documentation for the tools/features they are developing. All docs content is curated by an editor, who ensures compliance with established style guidelines; formats content for reuse; and prepares content for publication in conjunction with product releases.
 
 .. note::
 
-    This training exercise supplements the F5 Open Source Documentation Training presentation. Explanations of the concepts and tools are provided in `f5-opensource-docs-training <https://github.com/jputrino/f5-docs-training/blob/master/f5-opensource-docs-training.pptx>`_.
+    This training exercise supplements the F5 Open Source Documentation Training presentation. Explanations of the concepts and tools are provided in `f5-opensource-docs-training <https://github.com/jputrino/f5-docs-training/blob/master/f5-opensource-docs-training.pptx>`_ (PPT).
 
 Project Setup
 -------------
