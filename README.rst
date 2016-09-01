@@ -1,9 +1,6 @@
 Welcome to F5's Open Source Documentation Training!
 ===================================================
 
-.. toctree::
-    :hidden:
-
 This training demo is intended to teach F5 Networks' software engineers to create documentation for open source projects. For these projects, documentation is created as part of the agile development process. All software engineers are expected to create documentation for the tools/features they are developing. All docs content is curated by an editor, who ensures compliance with established style guidelines; formats content for reuse; and prepares content for publication in conjunction with product releases.
 
 .. note::
@@ -118,3 +115,11 @@ View Your Documentation
     Go to \http://f5-docs-training.readthedocs.io/en/<your-feature-branch> to view your documentation!
 
 
+Site Contents:
+--------------
+
+.. toctree::
+    :glob:
+
+    docs/includes/*
+    docs/includes/examples/*
