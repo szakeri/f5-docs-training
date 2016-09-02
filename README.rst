@@ -123,5 +123,10 @@ View Your Documentation
     self
     docs/sphinx_rst_cheat-sheet
 
+Next Steps
+----------
 
+* Read the `F5 Open Source Documentation Style Guide <http://f5-openstack-docs.readthedocs.io/en/latest/style_guide.html>`_.
+* Check out the `feature documentation cheat sheet <http://f5-openstack-docs.readthedocs.io/en/latest/quick-ref-how-to-document-feature.html>`_.
+* Check out the `API documentation cheat sheet <http://f5-openstack-docs.readthedocs.io/en/latest/quick-ref-how-to-document-api.html>`_.
 
