@@ -34,19 +34,18 @@ Create New Content
 
 #. Make a new file that follows the file-naming conventions shown below. **Be sure to put it in the** ``docs/includes`` **directory**.
 
+    * topic: topic_name-of-feature.rst
     * concept: concept_descriptive-file-name.rst
-    * topic: topic_descriptive-file-name.rst
     * reference: ref_descriptive-file-name.rst
 
-#. Write a brief chunk of content that is appropriate for the doc type you're creating.
+#. Use the feature template to create a new topic.
 
     .. tip::
 
         * Can be about any subject you like; keep it clean and professional.
-        * See :ref:`examples` for text you can copy and paste.
+        * See the :ref:`examples` for ideas.
 
-#. **Optional**: Create additional content chunks to be combined into a map in a :ref:`later step <Create a Document Map>`.
-
+#. **Optional**: Create additional feature topics to be :ref:`combined into a map <Create a Document Map>`.
 
 #. Save and commit your work.
 
@@ -55,7 +54,7 @@ Create New Content
     .. code:: bash
 
         git add --all
-        git commit -m "my first content chunks"
+        git commit -m "my first feature topic"
 
 
 #. Push your work to GitHub.
@@ -71,7 +70,12 @@ Create New Content
 Create a Document Map
 ---------------------
 
-Content chunks are combined into documents via maps. In `sphinx <http://www.sphinx-doc.org/en/stable/>`_, the ``.. include::`` directive provides the means for importing content from one file into another.
+Feature topics are combined into documents (i.e., guides) via maps. In `sphinx <http://www
+.sphinx-doc.org/en/stable/>`_, the ``.. include::`` directive provides the
+means for importing content from one file into another. In general, maps
+should live in a directory higher than the content they will be reusing. So,
+ if feature topics live in ``docs/includes``, maps should just live in
+ ``docs/``.
 
 1. Make a new file that follows the file-naming convention and architecture described in the `training slides <https://f5-my.sharepoint.com/personal/j_putrino_f5_com/_layouts/15/guestaccess.aspx?guestaccesstoken=7ZEBHlnODDNSA6mJLYoN3Uqxjshez3gP96vlO%2bchxmU%3d&docid=08c88415fb4cd452ea59275e63f7c3580&rev=1>`_.
 
@@ -122,6 +126,9 @@ View Your Documentation
 
     self
     docs/sphinx_rst_cheat-sheet
+    Example Map 1 <docs/map_example1>
+    Example Map 2 <docs/map_example2>
+    Example Content <docs/includes/README>
 
 Next Steps
 ----------
