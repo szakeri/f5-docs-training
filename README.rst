@@ -92,11 +92,11 @@ should live in a directory higher than the content they will be reusing. So,
         Salsa
         =====
 
-        .. include:: includes/concept_what-is-salsa.rst
+        .. include:: includes/concept_overview.rst
 
-        .. include:: includes/ref_ingredients-salsa.rst
+        .. include:: includes/topic_feature1.rst
 
-        .. include:: includes/topic_make-salsa.rst
+        .. include:: includes/topic_feature2.rst
 
 
 3. Commit your work and push it to GitHub.
