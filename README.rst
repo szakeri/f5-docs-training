@@ -7,7 +7,7 @@ All docs content is curated by an editor, who ensures compliance with establishe
 
 .. note::
 
-    This training exercise supplements the F5 Open Source Documentation Training presentation. Explanations of the concepts and tools are provided in `f5-opensource-docs-training <https://f5-my.sharepoint.com/personal/j_putrino_f5_com/_layouts/15/guestaccess.aspx?guestaccesstoken=7ZEBHlnODDNSA6mJLYoN3Uqxjshez3gP96vlO%2bchxmU%3d&docid=08c88415fb4cd452ea59275e63f7c3580&rev=1>`_ (PPT).
+    This training exercise supplements the F5 Open Source Documentation Training presentation. Explanations of the concepts and tools are provided in `f5-opensource-docs-training <https://f5-my.sharepoint.com/personal/j_putrino_f5_com/_layouts/15/guestaccess.aspx?guestaccesstoken=Xe1%2f7HpYVLat%2fsEsOtHNnLvL%2bN5P4yWMrl22i5FhTqs%3d&docid=2_18c88415fb4cd452ea59275e63f7c3580&rev=1>`_ (PPT).
 
 Project Setup
 -------------
