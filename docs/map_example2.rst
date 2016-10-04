@@ -1,7 +1,7 @@
 Example Map 2
 =============
 
-.. comment:: this map actually reuses the content from other files; this is useful for smaller guides that link related content together; this type of map can be included in the map shown in :ref:`map_example1`
+.. comment:: This map actually reuses the content from other files. This is useful for smaller guides that link related content together; this type of map can also be a 'mini-map' and be included in the toctree shown in :ref:`map_example1`.
 
 .. include:: includes/concept_config-overview.rst
 
